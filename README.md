@@ -10,3 +10,9 @@ If you are lucky, the assist boundingbox annotation results (json file) will app
 Below imgs are some results:
 
 ![img annoation_result](https://raw.githubusercontent.com/Ronales/Detection-bbox-labelme-assist-annotation-by-using-yolo3-detector-/master/annotation_example.png)
+
+
+## Notice 
+
+- The detector code from the project https://github.com/ultralytics/yolov3
+- The lableme version should restrict  3.16.1 
