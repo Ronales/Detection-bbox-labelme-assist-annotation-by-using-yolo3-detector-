@@ -9,4 +9,4 @@ If you are lucky, the assist boundingbox annotation results (json file) will app
 
 Below imgs are some results:
 
-![img annoation)result](https://github.com/Ronales/Detection-bbox-labelme-assist-annotation-by-using-yolo3-detector-/raw/master/annotation_example.png)
+![img annoation_result](https://raw.githubusercontent.com/Ronales/Detection-bbox-labelme-assist-annotation-by-using-yolo3-detector-/master/annotation_example.png)
