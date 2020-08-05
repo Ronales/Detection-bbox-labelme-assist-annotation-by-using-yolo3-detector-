@@ -4,6 +4,7 @@ In this project, I finished the simplified project of labelme annotation functio
 
 ## Tips
 You can run the **detect_labelme.py** to try process the rough annotation work, then use the labelme software to adjust the annotation boudingbox postion in correct way.
+before you run the **detect_labelme.py** code, the params about "--model --cfg " should fill correct in this python file!!!
 
 If you are lucky, the assist boundingbox annotation results (json file) will appreant in your device.
 
