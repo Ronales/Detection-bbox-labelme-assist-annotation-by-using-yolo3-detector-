@@ -1,2 +1,6 @@
 # Detection-bbox-labelme-assist-annotation-by-using-yolo3-detector-
 In this project, I finished the simplified project of labelme annotation function in common annotation work based on yolo3 detector. You can use this project to simplify your heavy annotation procedure by using this project.
+
+
+## Tips
+You can run the '''detect_labelme.py''' to try process the rough annotation work, then use the labelme software to adjust the annotation boudingbox postion in correct way.
