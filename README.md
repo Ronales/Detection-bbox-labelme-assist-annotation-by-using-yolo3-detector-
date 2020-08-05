@@ -18,7 +18,7 @@ Below imgs are some results:
 - The lableme version should restrict  3.16.1 
 
 
-The labelme annotation format :
+The labelme annotation json file format :
 
 {"version": "3.16.7",
                   "flags": {},
