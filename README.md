@@ -16,7 +16,7 @@ Below imgs are some results:
 ## Notice 
 
 - The detector code from the project https://github.com/ultralytics/yolov3
-- **The lableme version should restrict  3.16.1 **
+-  **The lableme version should restrict  3.16.1 **
 - The labelme annotation json file format :
 
 {"version": "3.16.7",
