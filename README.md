@@ -6,6 +6,8 @@ In this project, I finished the simplified project of labelme annotation functio
 You can run the **detect_labelme.py** to try process the rough annotation work, then use the labelme software to adjust the annotation boudingbox postion in correct way.
 before you run the **detect_labelme.py** code, the params about "--model --cfg " should fill correct in this python file!!!
 
+whole command ：```python detect_labelme.py --source xxx.mp4```     ;defualt the frame interval is 20 frame 
+
 If you are lucky, the assist boundingbox annotation results (json file) will appreant in your device.
 
 Below imgs are some results:
